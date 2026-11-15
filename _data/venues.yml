@@ -1,9 +1,17 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"NAACL":
+  url: https://2025.naacl.org/
+  color: "#b31b1b"
+
+"EACL":
+  url: https://eacl.org/
+  color: "#1a7f37"
+
+"ICML":
+  url: https://icml.cc/
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"TALN":
+  color: "#6f42c1"
 
-"Vision":
-  color: "#009f36"
+"Preprint":
+  color: "#6c757d"
